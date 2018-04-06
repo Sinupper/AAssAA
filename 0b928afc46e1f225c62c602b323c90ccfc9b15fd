@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "aace0990_cbf8d863",
+        "filename": "dokument.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013899
+      },
+      "writtenOn": "2018-04-06T20:46:06Z",
+      "side": 1,
+      "message": "ok",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 1
+      },
+      "revId": "0b928afc46e1f225c62c602b323c90ccfc9b15fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
